@@ -2,8 +2,5 @@ Git is distributed version control system.
 Git is free software distributed under the GPL.
 Shiliew test!
 Creating a new branch is quick.
-<<<<<<< HEAD
 dev test 1
-=======
 beta1
->>>>>>> beta
