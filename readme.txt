@@ -4,3 +4,4 @@ Shiliew test!
 Creating a new branch is quick.
 dev test 11
 beta1
+learn git add test
